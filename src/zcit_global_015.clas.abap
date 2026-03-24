@@ -1,0 +1,22 @@
+CLASS zcit_global_015 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+    INTERFACES if_oo_adt_classrun .
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcit_global_015 IMPLEMENTATION.
+
+
+  METHOD if_oo_adt_classrun~main.
+
+
+  ENDMETHOD.
+ENDCLASS.
